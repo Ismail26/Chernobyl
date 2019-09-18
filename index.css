@@ -1,0 +1,70 @@
+.bstyle {
+    background-image:url("fadebg.jpg");
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;    
+  width: 30%;  
+  height: 90vh;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  padding: 4px;
+  align-self: center;
+  background-color: white;
+  border-radius: 25px;
+}
+
+.h1 {
+    font-size: 30px;
+    color: darkslateblue;
+    text-align: center;
+}
+#username {
+    padding: 5px; 
+    border-radius: 10px;
+    width: 95%;
+    text-align: center;
+}
+#password {
+    padding: 5px;
+    border-radius: 10px;
+    width: 90%;
+    text-align: center;
+}
+
+.login-button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    background-image: url(fadebg.jpg);
+    padding: 5px;
+    width: 70%;
+    color: white;
+}
+
+.register{
+    font-weight: 100;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+}
+.h5{
+    font-size: 20px;
+    color: darkslateblue;
+}
+.smedia {
+    list-style-type: none;
+    padding: 5%;
+    margin: 25px;
+}
+
+.register1, register {
+    padding: 10px;
+    font-family: inherit;
+}
+
+
